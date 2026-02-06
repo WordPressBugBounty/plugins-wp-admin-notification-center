@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'rleclercq/wordpress_admin_notification_center',
-        'pretty_version' => 'dev-develop',
-        'version' => 'dev-develop',
-        'reference' => '2c3a878373c9c4c1d14b08edb3d538c307811d57',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '0ec67ebb7e6f48b27e3aead07977d80d3e81a0ce',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'rleclercq/wordpress_admin_notification_center' => array(
-            'pretty_version' => 'dev-develop',
-            'version' => 'dev-develop',
-            'reference' => '2c3a878373c9c4c1d14b08edb3d538c307811d57',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '0ec67ebb7e6f48b27e3aead07977d80d3e81a0ce',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
